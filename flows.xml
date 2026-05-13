@@ -1,0 +1,13 @@
+<routes>
+    <vType id="passenger" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="50"/>
+
+    <flow id="f_01" type="passenger" begin="0" end="3600" vehsPerHour="3930" from="529790786" to="883768874"/>
+    <flow id="f_02" type="passenger" begin="0" end="3600" vehsPerHour="4750" from="529702079" to="712062744"/>
+    <flow id="f_03" type="passenger" begin="0" end="3600" vehsPerHour="400" from="529790786" to="879206880.39"/>
+    <flow id="f_04" type="passenger" begin="0" end="3600" vehsPerHour="1550" from="1157529809" to="879206880.39"/>
+    <flow id="f_05" type="passenger" begin="0" end="3600" vehsPerHour="1310" from="529702079" to="769580623#0.46"/>
+    <flow id="f_06" type="passenger" begin="0" end="3600" vehsPerHour="2020" from="1088789552" to="769580623#0.46"/>
+    <flow id="f_07" type="passenger" begin="0" end="3600" vehsPerHour="1190" from="529790786" to="769580623#0.46"/>
+    <flow id="f_08" type="passenger" begin="0" end="3600" vehsPerHour="880" from="529702079" to="879206880.39"/>
+    
+</routes>
