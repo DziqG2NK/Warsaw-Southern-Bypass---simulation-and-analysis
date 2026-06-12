@@ -3,93 +3,54 @@
         xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
 
     <!-- from: s2 -->
-    <flow id="f_s2_to_e2" from="s2" to="e2" begin="0" end="3600" number="1879"/>
-    <flow id="f_s2_to_w4" from="s2" to="w4" begin="0" end="3600" number="387"/>
-    <flow id="f_s2_to_g2" from="s2" to="g2" begin="0" end="3600" number="351"/>
-    <flow id="f_s2_to_p1" from="s2" to="p1" begin="0" end="3600" number="144"/>
-    <flow id="f_s2_to_p3" from="s2" to="p3" begin="0" end="3600" number="350"/>
-    <flow id="f_s2_to_l1" from="s2" to="l1" begin="0" end="3600" number="460"/>
-    <flow id="f_s2_to_pr1" from="s2" to="pr1" begin="0" end="3600" number="821"/>
-    <flow id="f_s2_to_pr3" from="s2" to="pr3" begin="0" end="3600" number="398"/>
+    <flow id="f_s2_to_e2" from="s2" to="e2" begin="0" end="3600" number="2391"/>
+    <flow id="f_s2_to_g2" from="s2" to="g2" begin="0" end="3600" number="1060"/>
+    <flow id="f_s2_to_p1" from="s2" to="p1" begin="0" end="3600" number="50"/>
+    <flow id="f_s2_to_p3" from="s2" to="p3" begin="0" end="3600" number="1060"/>
+    <flow id="f_s2_to_pr1" from="s2" to="pr1" begin="0" end="3600" number="232"/>
+    <flow id="f_s2_to_pr3" from="s2" to="pr3" begin="0" end="3600" number="97"/>
 
     <!-- from: w3 -->
-    <flow id="f_w3_to_s1" from="w3" to="s1" begin="0" end="3600" number="151"/>
-    <flow id="f_w3_to_e2" from="w3" to="e2" begin="0" end="3600" number="175"/>
-    <flow id="f_w3_to_g2" from="w3" to="g2" begin="0" end="3600" number="27"/>
-    <flow id="f_w3_to_p1" from="w3" to="p1" begin="0" end="3600" number="13"/>
-    <flow id="f_w3_to_p3" from="w3" to="p3" begin="0" end="3600" number="33"/>
-    <flow id="f_w3_to_l1" from="w3" to="l1" begin="0" end="3600" number="43"/>
-    <flow id="f_w3_to_pr1" from="w3" to="pr1" begin="0" end="3600" number="76"/>
-    <flow id="f_w3_to_pr3" from="w3" to="pr3" begin="0" end="3600" number="52"/>
+    <flow id="f_w3_to_e2" from="w3" to="e2" begin="0" end="3600" number="532"/>
+    <flow id="f_w3_to_pr1" from="w3" to="pr1" begin="0" end="3600" number="27"/>
+    <flow id="f_w3_to_pr3" from="w3" to="pr3" begin="0" end="3600" number="11"/>
 
     <!-- from: g1 -->
-    <flow id="f_g1_to_s1" from="g1" to="s1" begin="0" end="3600" number="132"/>
-    <flow id="f_g1_to_e2" from="g1" to="e2" begin="0" end="3600" number="154"/>
-    <flow id="f_g1_to_w4" from="g1" to="w4" begin="0" end="3600" number="32"/>
-    <flow id="f_g1_to_p1" from="g1" to="p1" begin="0" end="3600" number="12"/>
-    <flow id="f_g1_to_p3" from="g1" to="p3" begin="0" end="3600" number="29"/>
-    <flow id="f_g1_to_l1" from="g1" to="l1" begin="0" end="3600" number="38"/>
-    <flow id="f_g1_to_pr1" from="g1" to="pr1" begin="0" end="3600" number="67"/>
-    <flow id="f_g1_to_pr3" from="g1" to="pr3" begin="0" end="3600" number="46"/>
+    <flow id="f_g1_to_s1" from="g1" to="s1" begin="0" end="3600" number="350"/>
+    <flow id="f_g1_to_p1" from="g1" to="p1" begin="0" end="3600" number="160"/>
 
     <!-- from: p2 -->
-    <flow id="f_p2_to_s1" from="p2" to="s1" begin="0" end="3600" number="64"/>
-    <flow id="f_p2_to_e2" from="p2" to="e2" begin="0" end="3600" number="74"/>
-    <flow id="f_p2_to_w4" from="p2" to="w4" begin="0" end="3600" number="15"/>
-    <flow id="f_p2_to_g2" from="p2" to="g2" begin="0" end="3600" number="11"/>
-    <flow id="f_p2_to_p3" from="p2" to="p3" begin="0" end="3600" number="14"/>
-    <flow id="f_p2_to_l1" from="p2" to="l1" begin="0" end="3600" number="18"/>
-    <flow id="f_p2_to_pr1" from="p2" to="pr1" begin="0" end="3600" number="32"/>
-    <flow id="f_p2_to_pr3" from="p2" to="pr3" begin="0" end="3600" number="22"/>
+    <flow id="f_p2_to_g2" from="p2" to="g2" begin="0" end="3600" number="50"/>
+    <flow id="f_p2_to_p3" from="p2" to="p3" begin="0" end="3600" number="200"/>
 
     <!-- from: p4 -->
-    <flow id="f_p4_to_s1" from="p4" to="s1" begin="0" end="3600" number="501"/>
-    <flow id="f_p4_to_e2" from="p4" to="e2" begin="0" end="3600" number="683"/>
-    <flow id="f_p4_to_w4" from="p4" to="w4" begin="0" end="3600" number="120"/>
-    <flow id="f_p4_to_g2" from="p4" to="g2" begin="0" end="3600" number="90"/>
-    <flow id="f_p4_to_p1" from="p4" to="p1" begin="0" end="3600" number="45"/>
-    <flow id="f_p4_to_l1" from="p4" to="l1" begin="0" end="3600" number="143"/>
-    <flow id="f_p4_to_pr1" from="p4" to="pr1" begin="0" end="3600" number="255"/>
-    <flow id="f_p4_to_pr3" from="p4" to="pr3" begin="0" end="3600" number="74"/>
+    <flow id="f_p4_to_s1" from="p4" to="s1" begin="0" end="3600" number="1560"/>
+    <flow id="f_p4_to_p1" from="p4" to="p1" begin="0" end="3600" number="350"/>
 
     <!-- from: l2 -->
-    <flow id="f_l2_to_s1" from="l2" to="s1" begin="0" end="3600" number="286"/>
-    <flow id="f_l2_to_e2" from="l2" to="e2" begin="0" end="3600" number="333"/>
-    <flow id="f_l2_to_w4" from="l2" to="w4" begin="0" end="3600" number="68"/>
-    <flow id="f_l2_to_g2" from="l2" to="g2" begin="0" end="3600" number="51"/>
-    <flow id="f_l2_to_p1" from="l2" to="p1" begin="0" end="3600" number="26"/>
-    <flow id="f_l2_to_p3" from="l2" to="p3" begin="0" end="3600" number="62"/>
-    <flow id="f_l2_to_pr1" from="l2" to="pr1" begin="0" end="3600" number="145"/>
-    <flow id="f_l2_to_pr3" from="l2" to="pr3" begin="0" end="3600" number="99"/>
+    <flow id="f_l2_to_e2" from="l2" to="e2" begin="0" end="3600" number="997"/>
+    <flow id="f_l2_to_pr1" from="l2" to="pr1" begin="0" end="3600" number="51"/>
+    <flow id="f_l2_to_pr3" from="l2" to="pr3" begin="0" end="3600" number="22"/>
 
     <!-- from: e1 -->
-    <flow id="f_e1_to_s1" from="e1" to="s1" begin="0" end="3600" number="2282"/>
-    <flow id="f_e1_to_w4" from="e1" to="w4" begin="0" end="3600" number="506"/>
-    <flow id="f_e1_to_g2" from="e1" to="g2" begin="0" end="3600" number="379"/>
-    <flow id="f_e1_to_p1" from="e1" to="p1" begin="0" end="3600" number="189"/>
-    <flow id="f_e1_to_p3" from="e1" to="p3" begin="0" end="3600" number="511"/>
-    <flow id="f_e1_to_l1" from="e1" to="l1" begin="0" end="3600" number="673"/>
-    <flow id="f_e1_to_pr1" from="e1" to="pr1" begin="0" end="3600" number="1176"/>
-    <flow id="f_e1_to_pr3" from="e1" to="pr3" begin="0" end="3600" number="146"/>
+    <flow id="f_e1_to_s1" from="e1" to="s1" begin="0" end="3600" number="2100"/>
+    <flow id="f_e1_to_w4" from="e1" to="w4" begin="0" end="3600" number="1260"/>
+    <flow id="f_e1_to_l1" from="e1" to="l1" begin="0" end="3600" number="1400"/>
+    <flow id="f_e1_to_pr1" from="e1" to="pr1" begin="0" end="3600" number="1260"/>
+    <flow id="f_e1_to_pr3" from="e1" to="pr3" begin="0" end="3600" number="50"/>
 
     <!-- from: pr2 -->
-    <flow id="f_pr2_to_s1" from="pr2" to="s1" begin="0" end="3600" number="725"/>
-    <flow id="f_pr2_to_e2" from="pr2" to="e2" begin="0" end="3600" number="843"/>
-    <flow id="f_pr2_to_w4" from="pr2" to="w4" begin="0" end="3600" number="235"/>
-    <flow id="f_pr2_to_g2" from="pr2" to="g2" begin="0" end="3600" number="130"/>
-    <flow id="f_pr2_to_p1" from="pr2" to="p1" begin="0" end="3600" number="65"/>
-    <flow id="f_pr2_to_p3" from="pr2" to="p3" begin="0" end="3600" number="157"/>
-    <flow id="f_pr2_to_l1" from="pr2" to="l1" begin="0" end="3600" number="206"/>
-    <flow id="f_pr2_to_pr3" from="pr2" to="pr3" begin="0" end="3600" number="89"/>
+    <flow id="f_pr2_to_s1" from="pr2" to="s1" begin="0" end="3600" number="444"/>
+    <flow id="f_pr2_to_e2" from="pr2" to="e2" begin="0" end="3600" number="790"/>
+    <flow id="f_pr2_to_w4" from="pr2" to="w4" begin="0" end="3600" number="140"/>
+    <flow id="f_pr2_to_l1" from="pr2" to="l1" begin="0" end="3600" number="160"/>
+    <flow id="f_pr2_to_pr3" from="pr2" to="pr3" begin="0" end="3600" number="710"/>
 
     <!-- from: pr4 -->
-    <flow id="f_pr4_to_s1" from="pr4" to="s1" begin="0" end="3600" number="489"/>
-    <flow id="f_pr4_to_e2" from="pr4" to="e2" begin="0" end="3600" number="569"/>
-    <flow id="f_pr4_to_w4" from="pr4" to="w4" begin="0" end="3600" number="117"/>
-    <flow id="f_pr4_to_g2" from="pr4" to="g2" begin="0" end="3600" number="87"/>
-    <flow id="f_pr4_to_p1" from="pr4" to="p1" begin="0" end="3600" number="44"/>
-    <flow id="f_pr4_to_p3" from="pr4" to="p3" begin="0" end="3600" number="106"/>
-    <flow id="f_pr4_to_l1" from="pr4" to="l1" begin="0" end="3600" number="139"/>
-    <flow id="f_pr4_to_pr1" from="pr4" to="pr1" begin="0" end="3600" number="249"/>
+    <flow id="f_pr4_to_s1" from="pr4" to="s1" begin="0" end="3600" number="260"/>
+    <flow id="f_pr4_to_e2" from="pr4" to="e2" begin="0" end="3600" number="90"/>
+    <flow id="f_pr4_to_w4" from="pr4" to="w4" begin="0" end="3600" number="80"/>
+    <flow id="f_pr4_to_l1" from="pr4" to="l1" begin="0" end="3600" number="96"/>
+    <flow id="f_pr4_to_pr1" from="pr4" to="pr1" begin="0" end="3600" number="1270"/>
 
 </routes>
